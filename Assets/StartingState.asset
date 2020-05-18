@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 530a51979b6bf64419e492b446345cc0, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: 'I awake in a hospital bed, theres no one around it feels like I''ve
+    been asleep forever.
+
+    As I get up out of bed I notice a calander on the
+    wall, 2034 is the year.
+
+    Have I been in a coma for 14 years...
+
+
+    What
+    should I do?
+
+    1. Stay and wait for a nurse or doctor.
+
+    2. Leave my
+    room and see where everyones at.'
