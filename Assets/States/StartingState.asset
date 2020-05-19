@@ -15,16 +15,19 @@ MonoBehaviour:
   storyText: 'I awake in a hospital bed, theres no one around it feels like I''ve
     been asleep forever.
 
-    As I get up out of bed I notice a calander on the
-    wall, 2034 is the year.
+    As I get up out of bed I notice a calander on the wall,
+    2034 is the year.
 
     Have I been in a coma for 14 years...
 
 
-    What
-    should I do?
+    What should
+    I do?
 
     1. Stay and wait for a nurse or doctor.
 
-    2. Leave my
-    room and see where everyones at.'
+    2. Leave my room and
+    see where everyones at.'
+  nextStates:
+  - {fileID: 11400000, guid: 791e143e074e12742959c2b37e565090, type: 2}
+  - {fileID: 11400000, guid: 1d307d71d2d805b488e9ef3a5a5fe5e4, type: 2}
