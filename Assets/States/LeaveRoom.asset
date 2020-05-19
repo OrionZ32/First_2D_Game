@@ -12,5 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 530a51979b6bf64419e492b446345cc0, type: 3}
   m_Name: LeaveRoom
   m_EditorClassIdentifier: 
-  storyText: I leave the room
-  nextStates: []
+  storyText: 'I leave the hospital room and there is no one there it''s silent. How
+    can a hospital be empty where are all the patients?
+
+
+    What should I do?
+
+    1.
+    Continue searching the hospital.
+
+    2. Leave the hospital and find out whats
+    going on.'
+  nextStates:
+  - {fileID: 11400000, guid: efdba9c43c2ed2f4181175b54b956dd9, type: 2}
+  - {fileID: 11400000, guid: 978c5f1aeb2bd8e42ba461e0aeb8068a, type: 2}

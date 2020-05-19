@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 530a51979b6bf64419e492b446345cc0, type: 3}
   m_Name: StayInRoom
   m_EditorClassIdentifier: 
-  storyText: I stay and wait
+  storyText: I stay and wait for a nurse, doctor, or anyone really. After about an
+    hour of waiting I think it would be best if I just resumed my coma.
   nextStates: []
